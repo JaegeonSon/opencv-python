@@ -1,2 +1,2 @@
 # opencv-python
-2026 Summer Vacation Special Lecture
+2026 KSNU Summer Vacation Special Lecture
